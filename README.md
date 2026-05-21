@@ -54,9 +54,13 @@ Alternativa: Se você utiliza o VS Code, pode iniciar a extensão Live Server pa
 📂 Estrutura de Pastas
 Plaintext
 projeto_3/
+
 ├── images/        # Banco de imagens otimizadas do restaurante e pratos
+
 ├── main.css       # Folha de estilos contendo reset, variáveis e media queries
+
 ├── index.html     # Estrutura e conteúdo semântico da página principal
+
 └── README.md      # Documentação do projeto
 
 🧠 Principais Aprendizados (EBAC)
