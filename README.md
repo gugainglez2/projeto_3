@@ -32,37 +32,6 @@ O desenvolvimento priorizou o uso de tecnologias limpas e estruturas consolidada
 
 ---
 
-## 🛠️ Como Executar o Projeto Localmente
-
-Como o projeto foi desenvolvido com tecnologias nativas da web (HTML/CSS), executá-lo é extremamente simples e não requer gerenciadores de pacotes pesados.
-
-### Passo a Passo
-
-1. **Clonar o repositório:**
-   ```bash
-   git clone https://github.com/gugainglez2/projeto_3.git
-Acessar o diretório do projeto:
-
-Bash
-cd projeto_3
-Abrir a aplicação:
-
-Basta dar um duplo clique no arquivo index.html para abri-lo diretamente no seu navegador de preferência.
-
-Alternativa: Se você utiliza o VS Code, pode iniciar a extensão Live Server para rodar o projeto em um servidor local dinâmico ([http://127.0.0.1:5500](http://127.0.0.1:5500)).
-
-📂 Estrutura de Pastas
-Plaintext
-projeto_3/
-
-├── images/        # Banco de imagens otimizadas do restaurante e pratos
-
-├── main.css       # Folha de estilos contendo reset, variáveis e media queries
-
-├── index.html     # Estrutura e conteúdo semântico da página principal
-
-└── README.md      # Documentação do projeto
-
 🧠 Principais Aprendizados (EBAC)
 Design Responsivo Root: Domínio de técnicas de responsividade sem a necessidade de frameworks (como Bootstrap), utilizando apenas CSS puro para entender profundamente o comportamento dos elementos na tela.
 
