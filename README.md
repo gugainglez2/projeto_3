@@ -58,6 +58,7 @@ projeto_3/
 ├── main.css       # Folha de estilos contendo reset, variáveis e media queries
 ├── index.html     # Estrutura e conteúdo semântico da página principal
 └── README.md      # Documentação do projeto
+
 🧠 Principais Aprendizados (EBAC)
 Design Responsivo Root: Domínio de técnicas de responsividade sem a necessidade de frameworks (como Bootstrap), utilizando apenas CSS puro para entender profundamente o comportamento dos elementos na tela.
 
